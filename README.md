@@ -83,3 +83,11 @@ Seit **2017** erstelle und
 * 🏗️ **Custom Plugin Development** – Velocity/Spigot/Paper Plugins
 * 🌐 **Netzwerk-Infrastruktur** – BungeeCord/Velocity Setups, Proxy-Konfiguration
 * 📊 **Community Management** – Discord-Bots, Webseiten, Statistik-Systeme
+
+## 📊 GitHub Statistiken
+
+<div align="center">
+  <a href="https://github.com/itsw0lf">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsw0lf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  </div>

@@ -19,3 +19,7 @@ Name: itsw0lf
 Standort: Deutschland 🇩🇪
 Leidenschaft seit: 2017
 Fokus: Minecraft Server Infrastructure & Development
+
+```
+
+-# Minecraft ist seit 2017 meine absolute Leidenschaft. Was als Hobby begann, hat sich über die Jahre zu einer tiefen Expertise in der Server-Landschaft entwickelt. Ich liebe es, Systeme zu optimieren und maßgeschneiderte Lösungen für Netzwerke zu finden. <3

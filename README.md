@@ -84,17 +84,23 @@ Seit **2017** erstelle und
 * 🌐 **Netzwerk-Infrastruktur** – BungeeCord/Velocity Setups, Proxy-Konfiguration
 * 📊 **Community Management** – Discord-Bots, Webseiten, Statistik-Systeme
 
+---
+
 ## 📊 GitHub Statistiken
 
 <div align="center">
 
 <a href="https://github.com/itsw0lf">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsw0lf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsw0lf&layout=compact&theme=tokyonight&hide_border=true"/>
 </a>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsw0lf&layout=compact&theme=tokyonight"/>
-
 <br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsw0lf&theme=tokyonight" alt="GitHub Streak"/>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=itsw0lf&color=FFA500&style=for-the-badge" alt="Profile Views"/>
 

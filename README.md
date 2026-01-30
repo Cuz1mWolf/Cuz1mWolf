@@ -42,7 +42,6 @@ Docker & Pterodactyl Setup
 Anti-DDoS & Proxy-Shielding
 
 </td> <td width="50%">
-
 💻 Development & Design
 Custom Plugin Development (Java)
 

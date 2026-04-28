@@ -6,7 +6,6 @@
 
   [![GitHub followers](https://img.shields.io/github/followers/itzW0lf?style=for-the-badge&logo=github&color=FFA500)](https://github.com/itzW0lf)
   [![Discord](https://img.shields.io/badge/Discord-itzW0lf-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/704384369392877769)
-  [![SpigotMC](https://img.shields.io/badge/SpigotMC-NURZUZX-FF9800?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/members/nurzuzx.2483866/)
   
 </div>
 
@@ -15,7 +14,7 @@
 ## 🎯 Über mich
 
 ```yaml
-Name: NURZUZX
+Name: itzW0lf
 Standort: Deutschland 🇩🇪
 Leidenschaft seit: 2017
 Fokus: Minecraft Server Infrastructure & Development
